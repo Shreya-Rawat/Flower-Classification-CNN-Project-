@@ -1,4 +1,4 @@
-# Flower-Classification-CNN-Project
+# Flower Classification CNN Project
 ## A Computer Vision Project
 
 ## DOMAIN: Botanical research 
